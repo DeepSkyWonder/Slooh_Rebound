@@ -12,4 +12,5 @@ Updates:
 >1. Added simulation snapshots, so simulation starts faster on secnod run.
 >2. Made all paths relative to notebook path.
 >3. Updated date format in animation to "YYYY, DD 'Abreviated Date Format'".
+>4. Moved files to github repository 'Slooh_Rebound'
 
